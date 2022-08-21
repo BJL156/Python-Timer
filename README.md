@@ -1,5 +1,5 @@
 # Python Timer
-A simple time built in python.
+A simple time built completely in python.
 
 ### Features
 - Updating progress bar
