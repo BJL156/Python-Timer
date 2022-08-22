@@ -12,7 +12,8 @@ A simple time built completely in python.
 
 
 ### Libraries Used
-- os
-- win10Toast
-- time
 - tqdm
+- win10toast
+- time
+- os
+- json
