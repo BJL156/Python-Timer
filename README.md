@@ -17,3 +17,6 @@ A simple time built completely in python.
 - time
 - os
 - json
+
+### Issues
+- the higher the `progress_bar_update` variable is away from 1, the less accurate the timer is.
