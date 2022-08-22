@@ -7,8 +7,8 @@ A simple time built completely in python.
   - seconds
   - minutes
   - hours
-- Configure notification message (COMING SOON)
-- Save settings (COMING SOON)
+- Configure notification message
+- Save settings
 
 
 ### Libraries Used
