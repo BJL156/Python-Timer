@@ -7,7 +7,10 @@ A simple time built completely in python.
   - seconds
   - minutes
   - hours
-- Configure notification message
+- Configure the progess bar update speed.
+- Configure notification
+  - Change title
+  - Change message
 - Save settings
 
 
